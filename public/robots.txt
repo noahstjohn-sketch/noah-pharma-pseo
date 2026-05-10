@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pharma.noahstjohn.com/sitemap-index.xml
